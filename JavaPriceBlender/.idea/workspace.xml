@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de25267-febb-4eba-91c3-8cc176c38d71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vnakXJii47W2lh7NFWkBp2KAUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.PriceBlenderMain">
+    <configuration name="PriceBlenderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.test.PriceBlenderMain" />
+      <module name="javapriceblender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceBlenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javapriceblender" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriceBlenderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceBlenderTest.testBidAskCrossing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javapriceblender" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriceBlenderTest" />
+      <option name="METHOD_NAME" value="testBidAskCrossing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceBlenderTest.testBidAskZeroFromAllSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javapriceblender" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriceBlenderTest" />
+      <option name="METHOD_NAME" value="testBidAskZeroFromAllSource" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceBlenderTest.testInvalidateMidIFBidIsZeroFromSameSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javapriceblender" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriceBlenderTest" />
+      <option name="METHOD_NAME" value="testInvalidateMidIFBidIsZeroFromSameSource" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PriceBlenderMain" />
+        <item itemvalue="JUnit.PriceBlenderTest.testInvalidateMidIFBidIsZeroFromSameSource" />
+        <item itemvalue="JUnit.PriceBlenderTest.testBidAskZeroFromAllSource" />
+        <item itemvalue="JUnit.PriceBlenderTest" />
+        <item itemvalue="JUnit.PriceBlenderTest.testBidAskCrossing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de25267-febb-4eba-91c3-8cc176c38d71" name="Default Changelist" comment="" />
+      <created>1627200449552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627200449552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1627346077683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1627346077683" />
+    <state width="475" height="466" key="DebuggerActiveHint" timestamp="1627344481926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="475" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1627344481926" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1627385250715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627385250715" />
+    <state width="1860" height="208" key="GridCell.Tab.0.bottom" timestamp="1627385890354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627385890354" />
+    <state width="1860" height="208" key="GridCell.Tab.0.center" timestamp="1627385890354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="208" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627385890354" />
+    <state width="1860" height="208" key="GridCell.Tab.0.left" timestamp="1627385890354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="208" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627385890354" />
+    <state width="1860" height="208" key="GridCell.Tab.0.right" timestamp="1627385890354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="208" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627385890354" />
+    <state width="1860" height="223" key="GridCell.Tab.1.bottom" timestamp="1627371284310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="223" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627371284310" />
+    <state width="1860" height="223" key="GridCell.Tab.1.center" timestamp="1627371284310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="223" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627371284310" />
+    <state width="1860" height="223" key="GridCell.Tab.1.left" timestamp="1627371284310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="223" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627371284310" />
+    <state width="1860" height="223" key="GridCell.Tab.1.right" timestamp="1627371284310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="223" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627371284310" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1627309666838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627309666838" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1627385340005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1627385340005" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1627344421440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627344421440" />
+  </component>
+</project>
